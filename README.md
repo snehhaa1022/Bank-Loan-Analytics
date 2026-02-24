@@ -45,7 +45,7 @@ Loan Status
 Year
 
 ## 📥 Dashboard File (Large Size)
-Due to GitHub file size limitations, the dashboard files are hosted externally:
+Due to GitHub file size limitations, the dashboard files are hosted externally too:
 
 **🔗 Download Files Here:**
 https://drive.google.com/drive/folders/1vRXA-YHkrhKx3Rbep0D9-gjz1TaL1Uu5
